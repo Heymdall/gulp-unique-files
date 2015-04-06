@@ -1,0 +1,24 @@
+{
+  "name": "gulp-unique-files",
+  "version": "0.1.0",
+  "description": "Save only one file with same filename in gulp stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heymdall/gulp-unique-files"
+  },
+  "author": {
+    "name": "Aleksandr Kitov"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heymdall/gulp-unique-files/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.6.0",
+    "through": "^2.3.7"
+  }
+}
