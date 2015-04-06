@@ -2,7 +2,7 @@ var path = require('path'),
     _ = require('lodash'),
     through = require('through2');
 
-module.export = function () {
+module.exports = function () {
     var files = [];
     return through.obj(function (file, enc, cb) {
         var relative = path.relative(file.base, file.path);
