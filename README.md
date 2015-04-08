@@ -1,4 +1,4 @@
-gulp-add-src
+gulp-unique-files
 ============
 
 Keep only last file with same filename in stream
