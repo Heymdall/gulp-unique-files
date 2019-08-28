@@ -18,7 +18,7 @@
     "url": "https://github.com/heymdall/gulp-unique-files/issues"
   },
   "dependencies": {
-    "lodash": "^3.6.0",
-    "through2": "^0.6.3"
+    "lodash": "^4.7.15",
+    "through2": "^3.0.1"
   }
 }
